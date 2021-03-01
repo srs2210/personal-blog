@@ -4,18 +4,14 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hi, I''m Saurabh 👋'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Cloud & DevOps Enthusiast
   - section_id: about
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I am an engineer who currently works on migration and scaling of applications in cloud.
     actions:
       - label: Contact Me
         url: /contact
@@ -29,17 +25,17 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Saurabh Shivgunde
+  description: Cloud & DevOps Enthusiast
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Saurabh Shivgunde
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Cloud & DevOps Enthusiast
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
@@ -48,9 +44,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Saurabh Shivgunde
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Cloud & DevOps Enthusiast
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
